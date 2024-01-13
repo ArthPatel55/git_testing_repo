@@ -1,4 +1,4 @@
 hello, good morning
 
-welcome to Bypeopl Technologies
+welcome to Bypeople Technologies
 <p>hello just testing the folder</p>
